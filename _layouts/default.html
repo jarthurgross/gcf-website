@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>{{ page.title }}</title>
+    {% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
+    {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/common.css" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    {% if page.tags != null %}
+    <meta name="keywords" content="{% for tag in page.tags %}{{tag | downcase}}{% if forloop.last == false and forloop.length > 2 %}, {% endif %}{% endfor %}" />
+    {% endif %}
+    <meta name="author" content="Jonathan A. Gross, azaghalofbelegost@gmail.com" />
+    {% if page.description != null %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %}
+    {% if page.abstract != null %}
+    <meta name="abstract" content="{{ page.abstract }}" />
+    {% endif %}
+    {% if page.article == true %}
+    <link rel="alternate" type="application/rss+xml" href="{{ relative }}blog/rss.xml" />
+    <link rel="alternate" type="application/atom+xml" href="{{ relative }}blog/atom.xml" />
+    {% endif %}
+  </head>
+  <body>
+    <div itemscope itemtype="http://n.whatwg.org/work" id="container">
+      <div id="banner">
+        <p>Graduate Christian Fellowship</p>
+      </div>
+      <div id="nav">
+        <a href="{{ relative }}">Home</a>
+        <a href="{{ relative }}bible_study">Bible study</a>
+        <a href="{{ relative }}lunchbox_theology">Lunchbox theology</a>
+        <a href="{{ relative }}contact">Contact</a>
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
+      <div id="footer">
+        <p>
+          <a href="http://validator.w3.org/check?uri=referer">Valid HTML</a>
+        </p>
+        <p>
+          This work is licensed under a <a itemprop="license"
+          href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        </p>
+        <p>
+          <a href="mailto:azaghalofbelegost@gmail.com">Contact Webmaster</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Have external links open in new tabs -->
+    <script type="text/javascript" src="{{ relative }}js/external-links.js"></script>
+  </body>
+</html>

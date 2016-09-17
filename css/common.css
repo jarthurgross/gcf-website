@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  font-size: 1.25em;
+  background: #8B5325;
+}
+img {
+  width: 100%;
+}
+figcaption {
+  text-align: center;
+}
+#container {
+  width: 900px;
+  background: #F0C29D;
+  color: #2A1300;
+  margin: 20px auto;
+}
+#container a {
+  color: #175553;
+  font-weight: 400;
+  text-decoration: none;
+}
+#container a:hover {
+  color: #306F6D;
+}
+#banner {
+  text-transform: uppercase;
+  font-family: 'Georgia', serif;
+  font-weight: 900;
+  font-size: 4em;
+  text-align: center;
+  color: #FFF;
+  background: #8A2528;
+}
+#banner > p {
+  margin: 0;
+}
+#nav {
+  height: 50px;
+  margin: 0 auto;
+  background: #EFB432;
+}
+#nav a {
+  display: block;
+  float: left;
+  color: #8A2528;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 0 20px;
+  line-height: 50px;
+  margin-right: 5px;
+}
+#nav a:hover {
+  color: #EFB432;
+  background: #8A2528;
+}
+#content {
+  position: relative;
+  padding-top:    20px;
+  padding-left:    20px;
+  padding-right:   20px;
+  padding-bottom: 60px;
+  overflow: auto; /* To keep floated content from extending beyond */
+}
+h1, h2, h3 {
+  color: #8A2528;
+}
+h1 {
+  font-weight: 900;
+}
+blockquote {
+  background: #444;
+  padding: 10px;
+  border-radius: 10px;
+}
+blockquote > :first-child {
+  margin-top: 0;
+}
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+#author {
+  color: #777777;
+}
+#date {
+  color: #777777;
+}
+#tags {
+  color: #777777;
+}
+#footer {
+  clear: both;
+  color: #FFF;
+  background: #8A2528;
+  text-align: center;
+  padding: 5px 20px 5px 20px;
+}
+#footer a {
+  color: #609290;
+}
+#footer a:hover {
+  color: #306F6D;
+}
+#headshot {
+  float: right;
+  margin: 10px;
+}
+dt {
+  font-weight: 900;
+}
+td, th {
+  padding-left: 20px;
+  padding-right: 20px;
+}
