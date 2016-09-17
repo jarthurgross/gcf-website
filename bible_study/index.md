@@ -22,8 +22,8 @@ of meeting locations and scripture passages for each week.
 | Aug 29 | SUB Sandia             | Exodus 1--2                      |
 | Sep  5 | N/A                    | No meeting (Labor Day)           |
 | Sep 12 | SUB Sandia             | Exodus 3--4                      |
-| Sep 19 | SUB Sandia             | TBA                              |
-| Sep 26 | SUB Sandia             | TBA                              |
+| Sep 19 | SUB Sandia             | Exodus 5:1--7:13                 |
+| Sep 26 | SUB Sandia             | Exodus 10--11                    |
 | Oct  3 | SUB Sandia             | TBA                              |
 | Oct 10 | SUB Sandia             | TBA                              |
 | Oct 17 | SUB Sandia             | TBA                              |
