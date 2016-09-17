@@ -1,8 +1,9 @@
-website
-=======
+gcf-website
+===========
 
-Source files that jekyll uses to create my UNM
-[website](http://www.unm.edu/~jagross). Does not include drafts folder.
+Source files that jekyll uses to create the 
+[website](http://gcf.unm.edu) for the Graduate Christian Fellowship at the
+University of New Mexico.
 
 ## License
 
