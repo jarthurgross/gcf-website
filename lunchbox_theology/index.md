@@ -13,7 +13,7 @@ Current semester (Fall 2016)
 ----------------------------
 
 We have a weekly brown-bag lunchtime discussion every Wednesday from
-11:30--12:30 MST in the SUB. Topics are drawn from current member interests
+11:30am--1pm MST in the SUB. Topics are drawn from current member interests
 and discussions that take place during our weekly [bible study][bible]. Below
 is the schedule of meeting locations for Fall 2016 with topics and any
 relevant reading material as we settle on them.
@@ -25,8 +25,8 @@ relevant reading material as we settle on them.
 | Sep&nbsp;7  | SUB&nbsp;Amigo | The days of creation (loosely following [*The Genesis Debate*][genesisdebate]): The 24-hour View |
 | Sep&nbsp;14 | SUB&nbsp;Amigo | The days of creation: The Framework View |
 | Sep&nbsp;21 | SUB&nbsp;Amigo | The days of creation: The Day-Age View   |
-| Sep&nbsp;28 | SUB&nbsp;Amigo | TBA                                      |
-| Oct&nbsp;5  | SUB&nbsp;Amigo | TBA                                      |
+| Sep&nbsp;28 | SUB&nbsp;Amigo | The days of creation: summary            |
+| Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin                             |
 | Oct&nbsp;12 | SUB&nbsp;Amigo | TBA                                      |
 | Oct&nbsp;19 | SUB&nbsp;Amigo | TBA                                      |
 | Oct&nbsp;26 | TBA            | TBA                                      |
