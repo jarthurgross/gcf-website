@@ -26,7 +26,7 @@ relevant reading material as we settle on them.
 | Sep&nbsp;14 | SUB&nbsp;Amigo | The days of creation: The Framework View |
 | Sep&nbsp;21 | SUB&nbsp;Amigo | The days of creation: The Day-Age View   |
 | Sep&nbsp;28 | SUB&nbsp;Amigo | The days of creation: summary            |
-| Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin                             |
+| Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin: [*Federal Headship*][fedhead] from [CARM][carm]; [*Federal and Natural Headship*][semhead] from [SharperIron][sharpiron]; and [*On the Law of God: II. The Nature of Sin*][ancsin] from [True Orthodox Christianity][trueorth] |
 | Oct&nbsp;12 | SUB&nbsp;Amigo | TBA                                      |
 | Oct&nbsp;19 | SUB&nbsp;Amigo | TBA                                      |
 | Oct&nbsp;26 | TBA            | TBA                                      |
@@ -47,3 +47,9 @@ Past semesters
 [extrabiblejesus]: http://coldcasechristianity.com/2014/is-there-any-evidence-for-jesus-outside-the-bible/
 [ccc]: http://coldcasechristianity.com/
 [genesisdebate]: http://www.cruxpress.com/genesis.htm
+[fedhead]: https://carm.org/federal-headship
+[carm]: https://carm.org
+[semhead]: http://sharperiron.org/article/federal-and-natural-headship
+[sharpiron]: http://sharperiron.org
+[ancsin]: http://www.trueorthodoxy.info/spir_on_law_God_02.shtml
+[trueorth]: http://www.trueorthodoxy.info
