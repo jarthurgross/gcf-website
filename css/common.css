@@ -1,3 +1,5 @@
+/* Palette based on tetrad scheme from http://paletton.com/#uid=7000u0kllllaFw0g0qFqFg0w0aF */
+
 body {
   margin: 0;
   font-family: 'Georgia', serif;
@@ -70,7 +72,7 @@ h1 {
   font-weight: 900;
 }
 blockquote {
-  background: #444;
+  background: #D49A6A;
   padding: 10px;
   border-radius: 10px;
 }
@@ -112,4 +114,7 @@ dt {
 td, th {
   padding-left: 20px;
   padding-right: 20px;
+}
+tr:nth-child(even) {
+  background: #D49A6A;
 }
