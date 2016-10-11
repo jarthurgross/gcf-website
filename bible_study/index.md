@@ -25,7 +25,7 @@ of meeting locations and scripture passages for each week.
 | Sep 19 | SUB Sandia             | Exodus 5:1--7:13                 |
 | Sep 26 | SUB Sandia             | Exodus 10--11                    |
 | Oct  3 | SUB Sandia             | Exodus 12--13                    |
-| Oct 10 | SUB Sandia             | TBA                              |
+| Oct 10 | SUB Sandia             | Exodus 14--15                    |
 | Oct 17 | SUB Sandia             | TBA                              |
 | Oct 24 | SUB Sandia             | TBA                              |
 | Oct 31 | SUB Sandia             | TBA                              |

@@ -27,7 +27,7 @@ relevant reading material as we settle on them.
 | Sep&nbsp;21 | SUB&nbsp;Amigo | The days of creation: The Day-Age View   |
 | Sep&nbsp;28 | SUB&nbsp;Amigo | The days of creation: summary            |
 | Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin: [*Federal Headship*][fedhead] from [CARM][carm]; [*Federal and Natural Headship*][semhead] from [SharperIron][sharpiron]; and [*On the Law of God: II. The Nature of Sin*][ancsin] from [True Orthodox Christianity][trueorth] |
-| Oct&nbsp;12 | SUB&nbsp;Amigo | TBA                                      |
+| Oct&nbsp;12 | SUB&nbsp;Amigo | Original sin: [Different positions on Original Sin][rjsum] compiled by Richard Jackson, [Hamartiology][hamar] by [Daniel J. Price][djp], [Why do we get punished for what Adam did?][punadam] from [Answers in Genesis][aig] |
 | Oct&nbsp;19 | SUB&nbsp;Amigo | TBA                                      |
 | Oct&nbsp;26 | TBA            | TBA                                      |
 | Nov&nbsp;2  | SUB&nbsp;Amigo | TBA                                      |
@@ -43,7 +43,7 @@ Past semesters
 
 [Spring 2016]({{ relative }}lunchbox_theology/2016_spring.html)
 
-[bible]: {{ relative}}bible_study
+[bible]: {{ relative }}bible_study
 [extrabiblejesus]: http://coldcasechristianity.com/2014/is-there-any-evidence-for-jesus-outside-the-bible/
 [ccc]: http://coldcasechristianity.com/
 [genesisdebate]: http://www.cruxpress.com/genesis.htm
@@ -53,3 +53,8 @@ Past semesters
 [sharpiron]: http://sharperiron.org
 [ancsin]: http://www.trueorthodoxy.info/spir_on_law_God_02.shtml
 [trueorth]: http://www.trueorthodoxy.info
+[rjsum]: {{ relative }}doc/different-positions-on-original-sin.html
+[hamar]: https://danieljprice.com/resume/doctrine/hamartiology/
+[djp]: https://danieljprice.com/
+[punadam]: https://answersingenesis.org/bible-characters/adam-and-eve/why-do-we-get-punished-for-what-adam-did/
+[aig]: https://answersingenesis.org/
