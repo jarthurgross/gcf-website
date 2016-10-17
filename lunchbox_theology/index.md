@@ -28,7 +28,7 @@ relevant reading material as we settle on them.
 | Sep&nbsp;28 | SUB&nbsp;Amigo | The days of creation: summary            |
 | Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin: [*Federal Headship*][fedhead] from [CARM][carm]; [*Federal and Natural Headship*][semhead] from [SharperIron][sharpiron]; and [*On the Law of God: II. The Nature of Sin*][ancsin] from [True Orthodox Christianity][trueorth] |
 | Oct&nbsp;12 | SUB&nbsp;Amigo | Original sin: [Different positions on Original Sin][rjsum] compiled by Richard Jackson, [Hamartiology][hamar] by [Daniel J. Price][djp], [Why do we get punished for what Adam did?][punadam] from [Answers in Genesis][aig] |
-| Oct&nbsp;19 | SUB&nbsp;Amigo | TBA                                      |
+| Oct&nbsp;19 | SUB&nbsp;Amigo | Original sin: ancestral sin perspective  |
 | Oct&nbsp;26 | TBA            | TBA                                      |
 | Nov&nbsp;2  | SUB&nbsp;Amigo | TBA                                      |
 | Nov&nbsp;9  | SUB&nbsp;Amigo | TBA                                      |
