@@ -129,7 +129,7 @@ person-sin).
 (Source) <http://cyclopedia.lcms.org/display.asp?t1=s&word=SIN.ORIGINAL>
 (See also Book of Concord I)
 
-Southern Baptism Convention
+Southern Baptist Convention
 ---------------------------
 
 Man is the special creation of God, made in His own image. He created
