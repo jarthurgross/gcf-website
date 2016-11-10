@@ -29,7 +29,7 @@ relevant reading material as we settle on them.
 | Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin: [*Federal Headship*][fedhead] from [CARM][carm]; [*Federal and Natural Headship*][semhead] from [SharperIron][sharpiron]; and [*On the Law of God: II. The Nature of Sin*][ancsin] from [True Orthodox Christianity][trueorth] |
 | Oct&nbsp;12 | SUB&nbsp;Amigo | Original sin: [Different positions on Original Sin][rjsum] compiled by Richard Jackson, [Hamartiology][hamar] by [Daniel J. Price][djp], [Why do we get punished for what Adam did?][punadam] from [Answers in Genesis][aig] |
 | Oct&nbsp;19 | SUB&nbsp;Amigo | Original sin: ancestral sin perspective  |
-| Oct&nbsp;26 | TBA            | TBA                                      |
+| Oct&nbsp;26 | SE corner of SUB foodcourt | Baptism (Lutheran perspective): The Large Catechism: [Holy Baptism][lcbap], from [The Book of Concord][boc] |
 | Nov&nbsp;2  | SUB&nbsp;Amigo | TBA                                      |
 | Nov&nbsp;9  | SUB&nbsp;Amigo | TBA                                      |
 | Nov&nbsp;16 | SUB&nbsp;Amigo | TBA                                      |
@@ -58,3 +58,5 @@ Past semesters
 [djp]: https://danieljprice.com/
 [punadam]: https://answersingenesis.org/bible-characters/adam-and-eve/why-do-we-get-punished-for-what-adam-did/
 [aig]: https://answersingenesis.org/
+[lcbap]: http://bookofconcord.org/lc-6-baptism.php
+[boc]: http://bookofconcord.org
