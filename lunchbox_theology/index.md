@@ -30,9 +30,9 @@ relevant reading material as we settle on them.
 | Oct&nbsp;12 | SUB&nbsp;Amigo | Original sin: [Different positions on Original Sin][rjsum] compiled by Richard Jackson, [Hamartiology][hamar] by [Daniel J. Price][djp], [Why do we get punished for what Adam did?][punadam] from [Answers in Genesis][aig] |
 | Oct&nbsp;19 | SUB&nbsp;Amigo | Original sin: ancestral sin perspective  |
 | Oct&nbsp;26 | SE corner of SUB foodcourt | Baptism (Lutheran perspective): The Large Catechism: [Holy Baptism][lcbap], from [The Book of Concord][boc] |
-| Nov&nbsp;2  | SUB&nbsp;Amigo | TBA                                      |
-| Nov&nbsp;9  | SUB&nbsp;Amigo | TBA                                      |
-| Nov&nbsp;16 | SUB&nbsp;Amigo | TBA                                      |
+| Nov&nbsp;2  | Table near Duck Pond | Advertising Haiti relief event     |
+| Nov&nbsp;9  | SUB&nbsp;Amigo | Baptism (Lutheran and Anabaptist perspectives): [Babtism FAQ][lcmsbapfaq] from the [LCMS]                                      |
+| Nov&nbsp;16 | SUB&nbsp;Amigo | Baptism (early church practice): Didache, [Chapter VII.&mdash;Concerning Baptism][didachebap] hosted on [Wikisource][wikisrc] |
 | Nov&nbsp;23 | SUB&nbsp;Amigo | TBA                                      |
 | Nov&nbsp;30 | SUB&nbsp;Amigo | TBA                                      |
 | Dec&nbsp;7  | SUB&nbsp;Amigo | TBA                                      |
@@ -60,3 +60,7 @@ Past semesters
 [aig]: https://answersingenesis.org/
 [lcbap]: http://bookofconcord.org/lc-6-baptism.php
 [boc]: http://bookofconcord.org
+[lcmsbapfaq]: http://www.lcms.org/faqs/doctrine
+[lcms]: http://www.lcms.org
+[didachebap]: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/The_Teaching_of_the_Twelve_Apostles/The_Teaching_of_the_Twelve_Apostles/Chapter_VII
+[wikisrc]: https://en.wikisource.org/wiki/Main_Page
