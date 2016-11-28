@@ -33,7 +33,7 @@ relevant reading material as we settle on them.
 | Nov&nbsp;2  | Table near Duck Pond | Advertising Haiti relief event     |
 | Nov&nbsp;9  | SUB&nbsp;Amigo | Baptism (Lutheran and Anabaptist perspectives): [Babtism FAQ][lcmsbapfaq] from the [LCMS]                                      |
 | Nov&nbsp;16 | SUB&nbsp;Amigo | Baptism (early church practice): Didache, [Chapter VII.&mdash;Concerning Baptism][didachebap] hosted on [Wikisource][wikisrc] |
-| Nov&nbsp;23 | SUB&nbsp;Amigo | TBA                                      |
+| Nov&nbsp;23 | N/A            | No meeting (Thanksgiving break)          |
 | Nov&nbsp;30 | SUB&nbsp;Amigo | TBA                                      |
 | Dec&nbsp;7  | SUB&nbsp;Amigo | TBA                                      |
 | Dec&nbsp;14 | SUB&nbsp;Amigo | TBA                                      |
