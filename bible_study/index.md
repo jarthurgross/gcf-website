@@ -28,9 +28,9 @@ of meeting locations and scripture passages for each week.
 | Oct 10 | SUB Sandia             | Exodus 14--15                    |
 | Oct 17 | SUB Sandia             | Exodus 16--17:7                  |
 | Oct 24 | SUB Sandia             | Exodus 17:8--18:27               |
-| Oct 31 | SUB Sandia             | TBA                              |
-| Nov  7 | SUB Sandia             | TBA                              |
-| Nov 14 | SUB Sandia             | TBA                              |
+| Oct 31 | SUB Sandia             | Exodus 19--20                    |
+| Nov  7 | SUB Sandia             | Exodus 23--24                    |
+| Nov 14 | SUB Sandia             | Exodus 32                        |
 | Nov 21 | SUB Sandia             | TBA                              |
 | Nov 28 | SUB Sandia             | TBA                              |
 | Dec  5 | SUB Sandia             | TBA                              |
