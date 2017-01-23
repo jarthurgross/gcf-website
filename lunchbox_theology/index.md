@@ -9,39 +9,41 @@ title: Lunchbox theology
 Lunchbox theology
 =================
 
-Current semester (Fall 2016)
-----------------------------
+Current semester (Spring 2017)
+------------------------------
 
 We have a weekly brown-bag lunchtime discussion every Wednesday from
 11:30am--1pm MST in the SUB. Topics are drawn from current member interests
-and discussions that take place during our weekly [bible study][bible]. Below
-is the schedule of meeting locations for Fall 2016 with topics and any
-relevant reading material as we settle on them.
+and discussions that take place during our weekly [bible study][bible]. This
+semester we plan to structure most of our topics around the
+[Apostles' Creed][apocreed]. Below is the schedule of meeting locations for
+Spring 2017 with topics and any relevant reading material as we settle on them.
 
 | Date        | Location       | Topic/Readings                           |
 | ----------- | -------------- | ---------------------------------------- |
-| Aug&nbsp;24 | N/A            | No meeting                               |
-| Aug&nbsp;31 | SUB&nbsp;Amigo | Historical reliability of the scriptures: [*Is There Any Evidence for Jesus Outside the Bible?*][extrabiblejesus] from [Cold-Case Christianity][ccc]. |
-| Sep&nbsp;7  | SUB&nbsp;Amigo | The days of creation (loosely following [*The Genesis Debate*][genesisdebate]): The 24-hour View |
-| Sep&nbsp;14 | SUB&nbsp;Amigo | The days of creation: The Framework View |
-| Sep&nbsp;21 | SUB&nbsp;Amigo | The days of creation: The Day-Age View   |
-| Sep&nbsp;28 | SUB&nbsp;Amigo | The days of creation: summary            |
-| Oct&nbsp;5  | SUB&nbsp;Amigo | Original sin: [*Federal Headship*][fedhead] from [CARM][carm]; [*Federal and Natural Headship*][semhead] from [SharperIron][sharpiron]; and [*On the Law of God: II. The Nature of Sin*][ancsin] from [True Orthodox Christianity][trueorth] |
-| Oct&nbsp;12 | SUB&nbsp;Amigo | Original sin: [Different positions on Original Sin][rjsum] compiled by Richard Jackson, [Hamartiology][hamar] by [Daniel J. Price][djp], [Why do we get punished for what Adam did?][punadam] from [Answers in Genesis][aig] |
-| Oct&nbsp;19 | SUB&nbsp;Amigo | Original sin: ancestral sin perspective  |
-| Oct&nbsp;26 | SE corner of SUB foodcourt | Baptism (Lutheran perspective): The Large Catechism: [Holy Baptism][lcbap], from [The Book of Concord][boc] |
-| Nov&nbsp;2  | Table near Duck Pond | Advertising Haiti relief event     |
-| Nov&nbsp;9  | SUB&nbsp;Amigo | Baptism (Lutheran and Anabaptist perspectives): [Babtism FAQ][lcmsbapfaq] from the [LCMS]                                      |
-| Nov&nbsp;16 | SUB&nbsp;Amigo | Baptism (early church practice): Didache, [Chapter VII.&mdash;Concerning Baptism][didachebap] hosted on [Wikisource][wikisrc] |
-| Nov&nbsp;23 | N/A            | No meeting (Thanksgiving break)          |
-| Nov&nbsp;30 | SUB&nbsp;Amigo | Parables (starting with Matthew 13)      |
-| Dec&nbsp;7  | SUB&nbsp;Amigo | TBA                                      |
-| Dec&nbsp;14 | SUB&nbsp;Amigo | TBA                                      |
+| Jan&nbsp;18 | N/A            | No meeting                               |
+| Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator                |
+| Feb&nbsp;1  | Cherry/Silver  | TBA                                      |
+| Feb&nbsp;8  | Cherry/Silver  | TBA                                      |
+| Feb&nbsp;15 | Cherry/Silver  | TBA                                      |
+| Feb&nbsp;22 | Cherry/Silver  | TBA                                      |
+| Mar&nbsp;1  | Cherry/Silver  | TBA                                      |
+| Mar&nbsp;8  | Cherry/Silver  | TBA                                      |
+| Mar&nbsp;15 | N/A            | No meeting (Spring break)                |
+| Mar&nbsp;22 | Amigo          | TBA                                      |
+| Mar&nbsp;29 | Cherry/Silver  | TBA                                      |
+| Apr&nbsp;5  | Cherry/Silver  | TBA                                      |
+| Apr&nbsp;12 | Cherry/Silver  | TBA                                      |
+| Apr&nbsp;19 | Amigo          | TBA                                      |
+| Apr&nbsp;26 | Cherry/Silver  | TBA                                      |
+| May&nbsp;3  | Cherry/Silver  | TBA                                      |
+| May&nbsp;10 | Cherry/Silver  | TBA                                      |
 
 Past semesters
 --------------
 
-[Spring 2016]({{ relative }}lunchbox_theology/2016_spring.html)
+* [Fall 2016]({{ relative }}lunchbox_theology/2016_fall.html)
+* [Spring 2016]({{ relative }}lunchbox_theology/2016_spring.html)
 
 [bible]: {{ relative }}bible_study
 [extrabiblejesus]: http://coldcasechristianity.com/2014/is-there-any-evidence-for-jesus-outside-the-bible/
@@ -64,3 +66,4 @@ Past semesters
 [lcms]: http://www.lcms.org
 [didachebap]: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/The_Teaching_of_the_Twelve_Apostles/The_Teaching_of_the_Twelve_Apostles/Chapter_VII
 [wikisrc]: https://en.wikisource.org/wiki/Main_Page
+[apocreed]: https://en.wikipedia.org/wiki/Apostles'_Creed

@@ -13,4 +13,4 @@ You can also view our page on the UNM Student Activities Center website:
 [Graduate Christian Fellowship][unmsac].
 
 [email]: mailto:azaghalofbelegost@gmail.com
-[unmsac]: https://unm-community.symplicity.com/index.php?s=student_group&mode=form&id=edbe2d64617a3554002bcd9c93480221&tab=homepage
+[unmsac]: https://unm-community.symplicity.com/?s=student_group&id=5f21cd765df59eafa192c082c175f1fd

@@ -9,34 +9,34 @@ title: Bible study
 Bible study
 ===========
 
-Current semester (Fall 2016)
-----------------------------
+Current semester (Spring 2017)
+------------------------------
 
 We have a weekly Bible study on Monday evenings at 18:30 (6:30pm) MST in the
-SUB. This semester we are studying the book of Exodus. Below is the schedule
+SUB. This semester we are studying the Gospel of John. Below is the schedule
 of meeting locations and scripture passages for each week.
 
 | Date   | Location               | Passage                          |
 | ------ | ---------------------- | -------------------------------- |
-| Aug 22 | SUB Sandia             | Genesis 50:22--26                |
-| Aug 29 | SUB Sandia             | Exodus 1--2                      |
-| Sep  5 | N/A                    | No meeting (Labor Day)           |
-| Sep 12 | SUB Sandia             | Exodus 3--4                      |
-| Sep 19 | SUB Sandia             | Exodus 5:1--7:13                 |
-| Sep 26 | SUB Sandia             | Exodus 10--11                    |
-| Oct  3 | SUB Sandia             | Exodus 12--13                    |
-| Oct 10 | SUB Sandia             | Exodus 14--15                    |
-| Oct 17 | SUB Sandia             | Exodus 16--17:7                  |
-| Oct 24 | SUB Sandia             | Exodus 17:8--18:27               |
-| Oct 31 | SUB Sandia             | Exodus 19--20                    |
-| Nov  7 | SUB Sandia             | Exodus 23--24                    |
-| Nov 14 | SUB Sandia             | Exodus 32                        |
-| Nov 21 | SUB Sandia             | Exodus 25--26                    |
-| Nov 28 | SUB Sandia             | Exodus 33--34                    |
-| Dec  5 | SUB Sandia             | TBA                              |
-| Dec 12 | SUB Sandia             | TBA                              |
+| Jan 23 | SUB Cherry/Silver      | John 1                           |
+| Jan 30 | SUB Cherry/Silver      | John 2--3                        |
+| Feb  6 | SUB Cherry/Silver      | John 4                           |
+| Feb 13 | SUB Cherry/Silver      | John 5:1--6:61                   |
+| Feb 20 | SUB Cherry/Silver      | John 6:22--71                    |
+| Feb 27 | SUB Cherry/Silver      | John 7                           |
+| Mar  6 | SUB Cherry/Silver      | John 8                           |
+| Mar 13 | N/A                    | No meeting (Spring break)        |
+| Mar 20 | SUB Cherry/Silver      | John 9--10                       |
+| Mar 27 | SUB Cherry/Silver      | John 11                          |
+| Apr  3 | SUB Cherry/Silver      | John 12                          |
+| Apr 10 | SUB Cherry/Silver      | John 13--14                      |
+| Apr 17 | SUB Cherry/Silver      | John 15--16                      |
+| Apr 24 | SUB Cherry/Silver      | John 17--18                      |
+| May  1 | SUB Cherry/Silver      | John 19                          |
+| May  8 | SUB Cherry/Silver      | John 20--21                      |
 
 Past semesters
 --------------
 
-[Spring 2016]({{ relative }}bible_study/2016_spring.html)
+* [Fall 2016]({{ relative }}bible_study/2016_fall.html)
+* [Spring 2016]({{ relative }}bible_study/2016_spring.html)
