@@ -22,7 +22,7 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Date        | Location       | Topic/Readings                           |
 | ----------- | -------------- | ---------------------------------------- |
 | Jan&nbsp;18 | N/A            | No meeting                               |
-| Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator                |
+| Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator and brief introduction to the creed: [*Apostles' Creed*][isbecreed] in the <abbr title="International Standard Bible Encyclopedia">ISBE</abbr> |
 | Feb&nbsp;1  | Cherry/Silver  | Virgin Birth                             |
 | Feb&nbsp;8  | Cherry/Silver  | The Suffering of Jesus                   |
 | Feb&nbsp;15 | Cherry/Silver  | Jesus as Son                             |
@@ -67,3 +67,4 @@ Past semesters
 [didachebap]: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/The_Teaching_of_the_Twelve_Apostles/The_Teaching_of_the_Twelve_Apostles/Chapter_VII
 [wikisrc]: https://en.wikisource.org/wiki/Main_Page
 [apocreed]: https://en.wikipedia.org/wiki/Apostles'_Creed
+[isbecreed]: http://www.internationalstandardbible.com/A/apostles-creed-the.html
