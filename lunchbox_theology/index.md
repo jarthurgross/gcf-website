@@ -23,11 +23,11 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | ----------- | -------------- | ---------------------------------------- |
 | Jan&nbsp;18 | N/A            | No meeting                               |
 | Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator                |
-| Feb&nbsp;1  | Cherry/Silver  | TBA                                      |
-| Feb&nbsp;8  | Cherry/Silver  | TBA                                      |
-| Feb&nbsp;15 | Cherry/Silver  | TBA                                      |
-| Feb&nbsp;22 | Cherry/Silver  | TBA                                      |
-| Mar&nbsp;1  | Cherry/Silver  | TBA                                      |
+| Feb&nbsp;1  | Cherry/Silver  | Virgin Birth                             |
+| Feb&nbsp;8  | Cherry/Silver  | The Suffering of Jesus                   |
+| Feb&nbsp;15 | Cherry/Silver  | Jesus as Son                             |
+| Feb&nbsp;22 | Cherry/Silver  | The Lord's Supper                        |
+| Mar&nbsp;1  | Cherry/Silver  | The Harrowing of Hell                    |
 | Mar&nbsp;8  | Cherry/Silver  | TBA                                      |
 | Mar&nbsp;15 | N/A            | No meeting (Spring break)                |
 | Mar&nbsp;22 | Amigo          | TBA                                      |
