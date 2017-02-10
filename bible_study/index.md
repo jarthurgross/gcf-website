@@ -21,7 +21,7 @@ of meeting locations and scripture passages for each week.
 | Jan 23 | SUB Cherry/Silver      | John 1                           |
 | Jan 30 | SUB Cherry/Silver      | John 2--3                        |
 | Feb  6 | SUB Cherry/Silver      | John 4                           |
-| Feb 13 | SUB Cherry/Silver      | John 5:1--6:61                   |
+| Feb 13 | SUB Cherry/Silver      | John 5:1--6:21                   |
 | Feb 20 | SUB Cherry/Silver      | John 6:22--71                    |
 | Feb 27 | SUB Cherry/Silver      | John 7                           |
 | Mar  6 | SUB Cherry/Silver      | John 8                           |
