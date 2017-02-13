@@ -23,7 +23,7 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | ----------- | -------------- | ---------------------------------------- |
 | Jan&nbsp;18 | N/A            | No meeting                               |
 | Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator and brief introduction to the creed: [*Apostles' Creed*][isbecreed] in the <abbr title="International Standard Bible Encyclopedia">ISBE</abbr> |
-| Feb&nbsp;1  | Cherry/Silver  | Virgin Birth                             |
+| Feb&nbsp;1  | Cherry/Silver  | Virgin Birth: [handout][rjsum]           |
 | Feb&nbsp;8  | Cherry/Silver  | The Suffering of Jesus                   |
 | Feb&nbsp;15 | Cherry/Silver  | Jesus as Son                             |
 | Feb&nbsp;22 | Cherry/Silver  | The Lord's Supper                        |
@@ -68,3 +68,4 @@ Past semesters
 [wikisrc]: https://en.wikisource.org/wiki/Main_Page
 [apocreed]: https://en.wikipedia.org/wiki/Apostles'_Creed
 [isbecreed]: http://www.internationalstandardbible.com/A/apostles-creed-the.html
+[rjsum]: {{ relative }}doc/born-of-the-virgin-mary.html
