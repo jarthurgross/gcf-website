@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lunchbox theology
+title: Apostles Creed—The Incarnation of our Lord
 ---
 
 Apostles Creed—The Incarnation of our Lord

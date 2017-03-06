@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lunchbox theology
+title: Different positions on Original Sin
 ---
 
 Different positions on Original Sin
