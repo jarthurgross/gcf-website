@@ -24,19 +24,19 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Jan&nbsp;18 | N/A            | No meeting                               |
 | Jan&nbsp;25 | Cherry/Silver  | God as Father and Creator and brief introduction to the creed: [*Apostles' Creed*][isbecreed] in the <abbr title="International Standard Bible Encyclopedia">ISBE</abbr> |
 | Feb&nbsp;1  | Cherry/Silver  | Virgin Birth: [handout][rjsum]           |
-| Feb&nbsp;8  | Cherry/Silver  | The Suffering of Jesus                   |
+| Feb&nbsp;8  | Cherry/Silver  | The Suffering of Jesus: [scripture references][suffscrip] |
 | Feb&nbsp;15 | Cherry/Silver  | Jesus as Son                             |
 | Feb&nbsp;22 | Cherry/Silver  | The Lord's Supper                        |
 | Mar&nbsp;1  | Cherry/Silver  | The Harrowing of Hell                    |
-| Mar&nbsp;8  | Cherry/Silver  | TBA                                      |
+| Mar&nbsp;8  | Cherry/Silver  | Holy Spirit                              |
 | Mar&nbsp;15 | N/A            | No meeting (Spring break)                |
-| Mar&nbsp;22 | Amigo          | TBA                                      |
-| Mar&nbsp;29 | Cherry/Silver  | TBA                                      |
-| Apr&nbsp;5  | Cherry/Silver  | TBA                                      |
-| Apr&nbsp;12 | Cherry/Silver  | TBA                                      |
-| Apr&nbsp;19 | Amigo          | TBA                                      |
-| Apr&nbsp;26 | Cherry/Silver  | TBA                                      |
-| May&nbsp;3  | Cherry/Silver  | TBA                                      |
+| Mar&nbsp;22 | Amigo          | Holy Spirit                              |
+| Mar&nbsp;29 | Cherry/Silver  | Resurrection and life everlasting        |
+| Apr&nbsp;5  | Cherry/Silver  | Final judgement                          |
+| Apr&nbsp;12 | Cherry/Silver  | Holy catholic Church and communion of Saints |
+| Apr&nbsp;19 | Amigo          | Forgiveness of sins                      |
+| Apr&nbsp;26 | Cherry/Silver  | Trinity                                  |
+| May&nbsp;3  | Cherry/Silver  | Creed history                            |
 | May&nbsp;10 | Cherry/Silver  | TBA                                      |
 
 Past semesters
@@ -69,3 +69,4 @@ Past semesters
 [apocreed]: https://en.wikipedia.org/wiki/Apostles'_Creed
 [isbecreed]: http://www.internationalstandardbible.com/A/apostles-creed-the.html
 [rjsum]: {{ relative }}doc/born-of-the-virgin-mary.html
+[suffscrip]: {{ relative }}doc/suffering-of-jesus.html
