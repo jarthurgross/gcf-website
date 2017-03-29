@@ -3,10 +3,10 @@ layout: default
 title: Third Article of the Apostles’ Creed (On the Holy Spirit)
 ---
 
-Compiled by Richard Jackson
-
 Third Article of the Apostles’ Creed (On the Holy Spirit)
 =========================================================
+
+Compiled by Richard Jackson
 
 | Relevant scriptures | Creed |
 | ------------------- | ----- |
