@@ -10,9 +10,9 @@ Compiled by Richard Jackson
 
 | Relevant scriptures                                                         | Creed                                        |
 | --------------------------------------------------------------------------- | -------------------------------------------- |
-| Matt&nbsp;3:16-17, Jn&nbsp;3:16, Acts&nbsp;13:33[Ps&nbsp;2:7], Heb&nbsp;5:5 | And in Jesus Christ, His only Son, our Lord, |
-| Matt&nbsp;1:18-25, Lk&nbsp;1:26-38, Is&nbsp;7:10-17                         | who was conceived by the Holy Spirit,        |
-| Matt&nbsp;1:25-2:1, Lk&nbsp;2:7                                             | born of the virgin Mary,                     |
+| Matt&nbsp;3:16--17, Jn&nbsp;3:16, Acts&nbsp;13:33[Ps&nbsp;2:7], Heb&nbsp;5:5 | And in Jesus Christ, His only Son, our Lord, |
+| Matt&nbsp;1:18--25, Lk&nbsp;1:26--38, Is&nbsp;7:10--17                         | who was conceived by the Holy Spirit,        |
+| Matt&nbsp;1:25--2:1, Lk&nbsp;2:7                                             | born of the virgin Mary,                     |
 |                                                                             | suffered under Pontius Pilate,               |
 |                                                                             | was crucified, died and was buried.          |
 
@@ -166,7 +166,7 @@ are indeed offspring of our Heavenly Father and, therefore, spirit brothers.
 Jesus Christ was with the Father from the beginning. Lucifer, too, was an angel
 “who was in authority in the presence of God,” a “son of the morning.” (See
 [Isa.  14:12](https://www.lds.org/scriptures/ot/isa/14.12?lang=eng#11); [D&C
-76:25–27](https://www.lds.org/scriptures/dc-testament/dc/76.25-27?lang=eng#24).)
+76:25–27](https://www.lds.org/scriptures/dc-testament/dc/76.25--27?lang=eng#24).)
 Both Jesus and Lucifer were strong leaders with great knowledge and influence.
 But as the Firstborn of the Father, Jesus was Lucifer’s older brother. (See
 [Col.  1:15](https://www.lds.org/scriptures/nt/col/1.15?lang=eng#14); [D&C
@@ -187,12 +187,12 @@ sufficient for a guardian" (Quran 4:171)
 
 "Say: "God is Unique! God, the Source \[of everything\]. He has not fathered
 anyone nor was He fathered, and there is nothing comparable to Him!" (Quran
-112:1-4).
+112:1--4).
 
 "Such was Jesus, the son of Mary; it is a statement of truth, about which they
 vainly dispute. It is not befitting to the majesty of God, that He should beget
 a son. Glory be to Him! When He determines a matter, He only says to it, ‘Be'
-and it is" (Quran 19:34-35).
+and it is" (Quran 19:34--35).
 
 (Source: [SoundVision.com](http://www.soundvision.com/article/a-comparison-of-the-islamic-and-christian-views-of-jesus))
 
