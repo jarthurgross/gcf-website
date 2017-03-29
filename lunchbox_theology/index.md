@@ -31,7 +31,7 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Mar&nbsp;8  | Cherry/Silver  | Holy Spirit                              |
 | Mar&nbsp;15 | N/A            | No meeting (Spring break)                |
 | Mar&nbsp;22 | Amigo          | Holy Spirit                              |
-| Mar&nbsp;29 | Cherry/Silver  | Holy Spirit                              |
+| Mar&nbsp;29 | Cherry/Silver  | Holy Spirit: [handout][rjhssum]          |
 | Apr&nbsp;5  | Cherry/Silver  | Resurrection and life everlasting        |
 | Apr&nbsp;12 | Cherry/Silver  | Final judgement                          |
 | Apr&nbsp;19 | Amigo          | Holy catholic Church and communion of Saints |
@@ -70,3 +70,4 @@ Past semesters
 [isbecreed]: http://www.internationalstandardbible.com/A/apostles-creed-the.html
 [rjsum]: {{ relative }}doc/born-of-the-virgin-mary.html
 [suffscrip]: {{ relative }}doc/suffering-of-jesus.html
+[rjhssum]: {{ relative }}doc/apostles-creed-third-article.html
