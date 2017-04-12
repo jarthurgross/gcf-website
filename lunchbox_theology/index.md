@@ -30,8 +30,8 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Mar&nbsp;1  | Cherry/Silver  | The Harrowing of Hell                    |
 | Mar&nbsp;8  | Cherry/Silver  | Holy Spirit                              |
 | Mar&nbsp;15 | N/A            | No meeting (Spring break)                |
-| Mar&nbsp;22 | Amigo          | Holy Spirit                              |
-| Mar&nbsp;29 | Cherry/Silver  | Holy Spirit: [handout][rjhssum]          |
+| Mar&nbsp;22 | Amigo          | Holy Spirit: [handout 1][hsscrip] (Hebrew and Greek words, scripture references in Old Testament and Acts) |
+| Mar&nbsp;29 | Cherry/Silver  | Holy Spirit: [handout 2][rjhssum] (New Testament scripture references and various doctrinal statements) |
 | Apr&nbsp;5  | Cherry/Silver  | Holy Spirit                              |
 | Apr&nbsp;12 | Cherry/Silver  | Holy Spirit                              |
 | Apr&nbsp;19 | Amigo          | Resurrection and life everlasting        |
@@ -71,3 +71,4 @@ Past semesters
 [rjsum]: {{ relative }}doc/born-of-the-virgin-mary.html
 [suffscrip]: {{ relative }}doc/suffering-of-jesus.html
 [rjhssum]: {{ relative }}doc/apostles-creed-third-article.html
+[hsscrip]: {{ relative }}doc/holy-spirit.html
