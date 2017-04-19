@@ -34,10 +34,10 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Mar&nbsp;29 | Cherry/Silver  | Holy Spirit: [handout 2][rjhssum] (New Testament scripture references and various doctrinal statements) |
 | Apr&nbsp;5  | Cherry/Silver  | Holy Spirit                              |
 | Apr&nbsp;12 | Cherry/Silver  | Holy Spirit                              |
-| Apr&nbsp;19 | Amigo          | Resurrection and life everlasting        |
-| Apr&nbsp;26 | Cherry/Silver  | Final judgement                          |
-| May&nbsp;3  | Cherry/Silver  | Holy catholic Church and communion of Saints |
-| May&nbsp;10 | Cherry/Silver  | Forgiveness of sins                      |
+| Apr&nbsp;19 | Amigo          | Holy Spirit                              |
+| Apr&nbsp;26 | Cherry/Silver  | Resurrection and life everlasting        |
+| May&nbsp;3  | Cherry/Silver  | Final judgement                          |
+| May&nbsp;10 | Cherry/Silver  | Holy catholic Church and communion of Saints |
 
 Past semesters
 --------------
