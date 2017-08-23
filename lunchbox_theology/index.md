@@ -35,9 +35,9 @@ Spring 2017 with topics and any relevant reading material as we settle on them.
 | Apr&nbsp;5  | Cherry/Silver  | Holy Spirit                              |
 | Apr&nbsp;12 | Cherry/Silver  | Holy Spirit                              |
 | Apr&nbsp;19 | Amigo          | Holy Spirit                              |
-| Apr&nbsp;26 | Cherry/Silver  | Resurrection and life everlasting        |
-| May&nbsp;3  | Cherry/Silver  | Final judgement                          |
-| May&nbsp;10 | Cherry/Silver  | Holy catholic Church and communion of Saints |
+| Apr&nbsp;26 | Cherry/Silver  | Holy Spirit                              |
+| May&nbsp;3  | Cherry/Silver  | Resurrection and life everlasting        |
+| May&nbsp;10 | Cherry/Silver  | Final judgement                          |
 
 Past semesters
 --------------
