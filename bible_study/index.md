@@ -9,34 +9,35 @@ title: Bible study
 Bible study
 ===========
 
-Current semester (Spring 2017)
-------------------------------
+Current semester (Fall 2017)
+----------------------------
 
-We have a weekly Bible study on Monday evenings at 18:30 (6:30pm) MST in the
-SUB. This semester we are studying the Gospel of John. Below is the schedule
-of meeting locations and scripture passages for each week.
+We have a weekly Bible study on Thursday evenings from 18:30--20:30
+(6:30--8:30pm) MST in the SUB. This semester we are studying Paul's epistle to
+the Romans. Below is the schedule of meeting locations and scripture passages
+for each week.
 
-| Date   | Location               | Passage                          |
-| ------ | ---------------------- | -------------------------------- |
-| Jan 23 | SUB Cherry/Silver      | John 1                           |
-| Jan 30 | SUB Cherry/Silver      | John 2--3                        |
-| Feb  6 | SUB Cherry/Silver      | John 4                           |
-| Feb 13 | SUB Cherry/Silver      | John 5:1--6:21                   |
-| Feb 20 | SUB Cherry/Silver      | John 6:22--71                    |
-| Feb 27 | SUB Cherry/Silver      | John 7                           |
-| Mar  6 | SUB Cherry/Silver      | John 8                           |
-| Mar 13 | N/A                    | No meeting (Spring break)        |
-| Mar 20 | SUB Cherry/Silver      | John 9--10                       |
-| Mar 27 | SUB Cherry/Silver      | John 11                          |
-| Apr  3 | SUB Cherry/Silver      | John 12                          |
-| Apr 10 | SUB Cherry/Silver      | John 13--14                      |
-| Apr 17 | SUB Cherry/Silver      | John 15--16                      |
-| Apr 24 | SUB Cherry/Silver      | John 17--18                      |
-| May  1 | SUB Cherry/Silver      | John 19                          |
-| May  8 | SUB Cherry/Silver      | John 20--21                      |
+| Date             | Location      | Passage                   |
+| ---------------- | ------------- | ------------------------- |
+| Aug 24           | SUB Alumni    | Romans 1                  |
+| Aug 31           | SUB Luminaria | Romans 2                  |
+| Sep  7           | SUB Alumni    | Romans 3                  |
+| Sep 14           | SUB Alumni    | Romans 4                  |
+| Sep 21           | SUB Alumni    | Romans 5                  |
+| Sep 28           | SUB Alumni    | Romans 6                  |
+| Oct  5           | SUB Alumni    | Romans 7                  |
+| Oct 19           | SUB Alumni    | Romans 8                  |
+| Oct 24 (Tuesday) | SUB Jemez     | Romans 9                  |
+| Nov  2           | SUB Alumni    | Romans 10                 |
+| Nov  9           | SUB Alumni    | Romans 11                 |
+| Nov 16           | SUB Alumni    | Romans 12                 |
+| Nov 23           | N/A           | No meeting (Thanksgiving) |
+| Nov 30           | SUB Alumni    | Romans 13--14             |
+| Dec  7           | SUB Alumni    | Romans 15--16             |
 
 Past semesters
 --------------
 
+* [Spring 2017]({{ relative }}bible_study/2017_spring.html)
 * [Fall 2016]({{ relative }}bible_study/2016_fall.html)
 * [Spring 2016]({{ relative }}bible_study/2016_spring.html)
