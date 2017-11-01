@@ -30,7 +30,7 @@ reading material as we settle on them.
 | Oct&nbsp;11 | SUB Cherry/Silver | No meeting     |
 | Oct&nbsp;18 | SUB Fiesta A & B  | Additions to the Book of Daniel in the Apocrypha (Prayer of Azariah/Song of the Three Young Men; Susanna; Bel and the Dragon) |
 | Oct&nbsp;25 | SUB near Satellite Coffee  | Tobit |
-| Nov&nbsp;1  | SUB Cherry/Silver | TBA            |
+| Nov&nbsp;1  | SUB Cherry/Silver | The Prayer of Manassah and Psalm 151 |
 | Nov&nbsp;8  | SUB Cherry/Silver | TBA            |
 | Nov&nbsp;15 | SUB Cherry/Silver | TBA            |
 | Nov&nbsp;22 | SUB Cherry/Silver | TBA            |
