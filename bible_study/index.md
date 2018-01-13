@@ -9,35 +9,22 @@ title: Bible study
 Bible study
 ===========
 
-Current semester (Fall 2017)
-----------------------------
+Current semester (Spring 2018)
+------------------------------
 
 We have a weekly Bible study on Thursday evenings from 18:30--20:30
-(6:30--8:30pm) MST in the SUB. This semester we are studying Paul's epistle to
-the Romans. Below is the schedule of meeting locations and scripture passages
-for each week.
+(6:30--8:30pm) MST in the SUB. This semester we are studying James' epistle and
+the book of Esther. Below is the schedule of meeting locations and scripture
+passages for each week.
 
 | Date   | Location                         | Passage                   |
 | ------ | -------------------------------- | ------------------------- |
-| Aug 24 | SUB Alumni                       | Romans 1                  |
-| Aug 31 | SUB Luminaria                    | Romans 2                  |
-| Sep  7 | SUB Alumni                       | Romans 3                  |
-| Sep 14 | SUB Alumni                       | Romans 4                  |
-| Sep 21 | SUB Alumni                       | Romans 5                  |
-| Sep 28 | SUB Alumni                       | Romans 6                  |
-| Oct  5 | SUB Alumni                       | Romans 7                  |
-| Oct 19 | SUB Alumni                       | Romans 8                  |
-| Oct 26 | Back room of Frontier restaurant | Romans 9                  |
-| Nov  2 | SUB Alumni                       | Romans 10                 |
-| Nov  9 | SUB Alumni                       | Romans 11                 |
-| Nov 16 | SUB Alumni                       | Romans 12                 |
-| Nov 23 | N/A                              | No meeting (Thanksgiving) |
-| Nov 30 | SUB Alumni                       | Romans 13--14             |
-| Dec  7 | SUB Alumni                       | Romans 15--16             |
+| Jan 18 | SUB Cherry/Silver                | Introduction to James     |
 
 Past semesters
 --------------
 
+* [Fall 2017]({{ relative }}bible_study/2017_fall.html)
 * [Spring 2017]({{ relative }}bible_study/2017_spring.html)
 * [Fall 2016]({{ relative }}bible_study/2016_fall.html)
 * [Spring 2016]({{ relative }}bible_study/2016_spring.html)
