@@ -21,7 +21,7 @@ relevant reading material as we settle on them.
 | Date        | Location          | Topic/Readings |
 | ----------- | ----------------- | -------------- |
 | Jan&nbsp;17 | N/A               | No meeting     |
-| Jan&nbsp;24 | SUB Cherry/Silver | [*Biblical Series I: Introduction to the Idea of God*][peterson1], by Jordan Peterson |
+| Jan&nbsp;24 | SUB Cherry/Silver | [*Biblical Series I: Introduction to the Idea of God*][peterson1], by Jordan Peterson ([handout][handout0124]) |
 
 Past semesters
 --------------
@@ -33,3 +33,4 @@ Past semesters
 
 [bible]: {{ relative }}bible_study
 [peterson1]: https://youtu.be/f-wWBGo6a2w
+[handout0124]: {{ relative }}doc/discussion-2018-01-24.html
