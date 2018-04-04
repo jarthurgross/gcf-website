@@ -20,6 +20,20 @@ passages for each week.
 | Date   | Location                         | Passage                   |
 | ------ | -------------------------------- | ------------------------- |
 | Jan 18 | SUB Cherry/Silver                | Introduction to James     |
+| Jan 25 | SUB Cherry/Silver                | James 1                   |
+| Feb 1  | SUB Cherry/Silver                | James 2                   |
+| Feb 8  | SUB Cherry/Silver                | James 3                   |
+| Feb 15 | SUB Cherry/Silver                | James 3                   |
+| Feb 22 | SUB Cherry/Silver                | James 4                   |
+| Mar 1  | SUB Cherry/Silver                | James 5                   |
+| Mar 8  | SUB Cherry/Silver                | Summary of James          |
+| Mar 22 | SUB Cherry/Silver                | Esther 1                  |
+| Mar 29 | SUB Cherry/Silver                | Esther 2                  |
+| Apr 5  | SUB Cherry/Silver                | Esther 3                  |
+| Apr 12 | SUB Cherry/Silver                |  |
+| Apr 19 | SUB Cherry/Silver                |  |
+| Apr 26 | SUB Cherry/Silver                |  |
+| May 3  | SUB Cherry/Silver                |  |
 
 Past semesters
 --------------
