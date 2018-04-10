@@ -31,7 +31,7 @@ relevant reading material as we settle on them.
 | Mar&nbsp;14 | SUB Cherry/Silver | No meeting |
 | Mar&nbsp;21 | SUB Cherry/Silver | Cain and Abel; Abraham and Isaac; Jordan Pererson has some relevant comments in [*Biblical Series V: Cain and Abel: The Hostile Brothers*][peterson5] |
 | Mar&nbsp;28 | SUB Cherry/Silver | Theories of the atonement |
-| Apr&nbsp;4  | SUB Cherry/Silver | Crucifixion and resurrection |
+| Apr&nbsp;4  | SUB Cherry/Silver | Crucifixion and resurrection ([list of some passages we considered][crucifix]) |
 | Apr&nbsp;11 | SUB Cherry/Silver | |
 | Apr&nbsp;18 | SUB Cherry/Silver | |
 | Apr&nbsp;25 | SUB Cherry/Silver | |
@@ -50,3 +50,4 @@ Past semesters
 [handout0124]: {{ relative }}doc/discussion-2018-01-24.html
 [peterson2]: https://youtu.be/hdrLQ7DpiWs
 [peterson5]: https://youtu.be/44f3mxcsI50
+[crucifix]: {{ relative }}doc/crucifixion-and-resurrection.html
