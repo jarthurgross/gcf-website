@@ -18,9 +18,12 @@ the [undergratuate chapter][unmiv] here on campus.
 If you're looking for a community to support you in your faith during graduate
 school or just interested in exploring the Christian faith alongside your
 graduate studies we would love for you to join us! Our regular events include
-a weekly [bible study][bible] and [lunchtime discussion][lunchbox].
+a weekly [bible study][bible] and [lunchtime discussion][lunchbox], and you can
+sign up to receive more information by filling out our
+[**Contact Form**][contact].
 
 [ivcf]: http://intervarsity.org/
 [unmiv]: http://ivcf.unm.edu/
 [bible]: {{ relative }}bible_study
 [lunchbox]: {{ relative }}lunchbox_theology
+[contact]: https://goo.gl/forms/1rR9OmOv00XmrHng2
