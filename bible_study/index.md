@@ -30,7 +30,7 @@ passages for each week.
 | Mar 22 | SUB Cherry/Silver                | Esther 1                  |
 | Mar 29 | SUB Cherry/Silver                | Esther 2                  |
 | Apr 5  | SUB Cherry/Silver                | Esther 3                  |
-| Apr 12 | SUB Cherry/Silver                |  |
+| Apr 12 | SUB Cherry/Silver                | Esther 4                  |
 | Apr 19 | SUB Cherry/Silver                |  |
 | Apr 26 | SUB Cherry/Silver                |  |
 | May 3  | SUB Cherry/Silver                |  |
